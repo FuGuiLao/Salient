@@ -116,7 +116,7 @@ export function PrimaryFeatures() {
                           'mt-2 hidden text-sm lg:block',
                           selectedIndex === featureIndex
                             ? 'text-white'
-                            : 'text-blue-100 group-hover:text-white'
+                            : 'text-red-100 group-hover:text-white'
                         )}
                       >
                         {feature.description}
