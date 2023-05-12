@@ -12,27 +12,27 @@ import screenshotVatReturns from '@/images/screenshots/vat-returns.png'
 
 const features = [
   {
-    title: 'Payroll',
+    title: 'Sentinal',
     description:
-      "Keep track of everyone's salaries and whether or not they've been paid. Direct deposit not supported.",
+      "Origin Sentinel is an Al platform that aggregates multi-source information, processes the raw data, and provides critical intelligence in real-time.",
     image: screenshotPayroll,
   },
   {
-    title: 'Claim expenses',
+    title: 'Sentry',
     description:
-      "All of your receipts organized into one place, as long as you don't mind typing in the data by hand.",
+      "Background investigations powered by Origin Sentry are comprehensive and provide the intelligence that matters to your organization.",
     image: screenshotExpenses,
   },
   {
-    title: 'VAT handling',
+    title: 'Sentry+',
     description:
-      "We only sell our software to companies who don't deal with VAT at all, so technically we do all the VAT stuff they need.",
+      "Origin Sentrv+ provides even more in-depth information and direct access to the raw data that creates a subject's Sentry profile.",
     image: screenshotVatReturns,
   },
   {
-    title: 'Reporting',
+    title: 'Scout',
     description:
-      'Easily export your data into an Excel spreadsheet where you can do whatever the hell you want with it.',
+      'When your organization needs to go beyond the traditional background investigation, we offer unparalleled due diligence with Origin Scout.',
     image: screenshotReporting,
   },
 ]
